@@ -1063,7 +1063,8 @@ GenF4.menu.pnum.Generic_F401RE.upload.maximum_size=524288
 GenF4.menu.pnum.Generic_F401RE.upload.maximum_data_size=98304
 GenF4.menu.pnum.Generic_F401RE.build.board=GENERIC_F401RE
 GenF4.menu.pnum.Generic_F401RE.build.product_line=STM32F401xE
-GenF4.menu.pnum.Generic_F401RE.build.variant=Generic_F401Rx
+# GenF4.menu.pnum.Generic_F401RE.build.variant=Generic_F401Rx
+GenF4.menu.pnum.Generic_F401RE.build.variant=NUCLEO_F401RE
 GenF4.menu.pnum.Generic_F401RE.node=NODE_F401RE
 
 # Generic F401RD
