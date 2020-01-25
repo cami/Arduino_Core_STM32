@@ -4,8 +4,8 @@
 #define PIN_A2_STEP         PB14
 #define PIN_B_DIR           PB2
 #define PIN_B_STEP          PB1
-#define PIN_C_DIR           PA12
-#define PIN_C_STEP          PA11
+#define PIN_C_DIR           PA5
+#define PIN_C_STEP          PA6
 #define PIN_D_DIR           PB12
 #define PIN_D_STEP          PB13
 
@@ -13,8 +13,8 @@
 #define PIN_0_STEP          PC3
 #define PIN_1_DIR           PH0
 #define PIN_1_STEP          PH1
-#define PIN_2_DIR           PC13
-#define PIN_2_STEP          PC14
+#define PIN_2_DIR           PA15
+#define PIN_2_STEP          PB15
 #define PIN_3_DIR           PA13
 #define PIN_3_STEP          PA14
 #define PIN_4_DIR           PB4
