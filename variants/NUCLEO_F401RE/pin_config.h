@@ -14,6 +14,8 @@
 #define PIN_D_STEP          PB13
 #define PIN_D_LIMIT         PA12
 
+// PA7, PB6, PC7, PC13, PC11
+
 #define PIN_0_DIR           PC2
 #define PIN_0_STEP          PC3
 #define PIN_0_LIMIT         PA10
@@ -37,6 +39,8 @@
 #define PIN_6_LIMIT         PB3
 #define PIN_7_DIR           PA0
 #define PIN_7_STEP          PA1
-#define PIN_7_LIMIT         PC7
+#define PIN_7_LIMIT         PB3
 
-#define MAX_RPM             720
+#define MAX_RPM                     720
+#define MILIMETER_PER_ROTATION      10
+#define DEGREE_PER_ROTATION         360
