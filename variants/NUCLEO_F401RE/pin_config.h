@@ -26,18 +26,15 @@
 #define PIN_7_DIR           PA0
 #define PIN_7_STEP          PA1
 
+#define MAX_RPM             720
 
+// PA2, PA3, PA7, PA10, PA11, PA12, PA15
 
-// PA0, PA1, PA4, PA13, PA14, PA15
-// PA2, PA3, PA4, PA6, PA7, PA10, PA11, PA12
+// PB3, PB6, PB7, PB8, PB9, PB10
 
-// PB1, PB2, PB3, PB4, PB5, PB6, PB8, PB9, PB10, PB12, PB14, PB15
-// PB7, PB8, PB9
-
-// PC0, PC1, PC2, PC3, PC10, PC11, PC12, PC13, PC14, PC15
-// PC4, PC5, PC6, PC7, PC8, PC9
+// PC4, PC7, PC8, PC9, PC11, PC13, PC14, PC15
 
 // PD2
 
-// PH0, PH1
+// PH0
 
