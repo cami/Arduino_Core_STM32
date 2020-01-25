@@ -11,10 +11,10 @@
 
 #define PIN_0_DIR           PC2
 #define PIN_0_STEP          PC3
-#define PIN_1_DIR           PH0
-#define PIN_1_STEP          PH1
-#define PIN_2_DIR           PA15
-#define PIN_2_STEP          PB15
+#define PIN_1_DIR           PC10
+#define PIN_1_STEP          PC12
+#define PIN_2_DIR           PA4
+#define PIN_2_STEP          PH1
 #define PIN_3_DIR           PA13
 #define PIN_3_STEP          PA14
 #define PIN_4_DIR           PB4
